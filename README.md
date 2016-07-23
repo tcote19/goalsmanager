@@ -3,7 +3,7 @@ SJ Web Devs Project - Goal/Task Manager
 
 Hi everyone! This is project 1 for the San Jose Front-End Web Developers group. This build will be a sort of life-goals and tasks manager interface. 
 
-**Mockups of the interface can be found in the assets folder of this Repo**
+**Mockups of the interface can be found in the assets folder of this Repo and also at this link: https://app.moqups.com/hypersprite/neomoD50mC/view/page/ad64222d5**
 
 Here's the basic product spec:
 
